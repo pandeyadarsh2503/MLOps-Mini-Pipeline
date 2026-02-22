@@ -34,9 +34,9 @@ rate over cryptocurrency OHLCV data.
 ## Setup Instructions
 
 ```bash
-# Create and activate a virtual environment (recommended)
+# Create and activate a virtual environment
 python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
+Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
