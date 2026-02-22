@@ -1,0 +1,35 @@
+2024-01-06 16:00:00 - INFO - Job started
+2024-01-06 16:00:00 - INFO - Config loaded: seed=42, window=5, version=v1
+2024-01-06 16:00:00 - INFO - Data loaded: 10000 rows
+2024-01-06 16:00:00 - INFO - Rolling mean calculated with window=5
+2024-01-06 16:00:00 - INFO - Signals generated
+2024-01-06 16:00:00 - INFO - Metrics: signal_rate=0.499, rows_processed=10000
+2024-01-06 16:00:00 - INFO - Job completed successfully in 134ms
+2026-02-21 18:54:53 - INFO - Job started
+2026-02-21 18:54:53 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 18:54:53 - INFO - Data loaded: 10000 rows
+2026-02-21 18:54:53 - INFO - Rolling mean calculated with window=5
+2026-02-21 18:54:53 - INFO - Signals generated
+2026-02-21 18:54:53 - INFO - Metrics: signal_rate=0.4972, rows_processed=10000
+2026-02-21 18:54:53 - INFO - Job completed successfully in 31ms
+2026-02-22 15:35:58 - INFO - Job started
+2026-02-22 15:35:58 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-22 15:35:58 - INFO - Data loaded: 10000 rows
+2026-02-22 15:35:58 - INFO - Rolling mean calculated with window=5
+2026-02-22 15:35:58 - INFO - Signals generated
+2026-02-22 15:35:58 - INFO - Metrics: signal_rate=0.4972, rows_processed=10000
+2026-02-22 15:35:58 - INFO - Job completed successfully in 51ms
+2026-02-22 15:44:53 - INFO - Job started
+2026-02-22 15:44:53 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-22 15:44:53 - INFO - Data loaded: 10000 rows
+2026-02-22 15:44:53 - INFO - Rolling mean calculated with window=5
+2026-02-22 15:44:53 - INFO - Signals generated
+2026-02-22 15:44:53 - INFO - Metrics: signal_rate=0.4972, rows_processed=10000
+2026-02-22 15:44:53 - INFO - Job completed successfully in 59ms
+2026-02-22 15:48:42 - INFO - Job started
+2026-02-22 15:48:42 - INFO - Config loaded: seed=99, window=5, version=v1
+2026-02-22 15:48:42 - INFO - Data loaded: 10000 rows
+2026-02-22 15:48:42 - INFO - Rolling mean calculated with window=5
+2026-02-22 15:48:42 - INFO - Signals generated
+2026-02-22 15:48:42 - INFO - Metrics: signal_rate=0.4972, rows_processed=10000
+2026-02-22 15:48:42 - INFO - Job completed successfully in 37ms
