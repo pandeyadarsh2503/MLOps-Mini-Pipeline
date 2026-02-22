@@ -3,7 +3,7 @@
   "rows_processed": 10000,
   "metric": "signal_rate",
   "value": 0.4972,
-  "latency_ms": 37,
-  "seed": 99,
+  "latency_ms": 39,
+  "seed": 42,
   "status": "success"
 }
